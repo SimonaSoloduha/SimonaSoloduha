@@ -1,6 +1,6 @@
 ![Header](https://github.com/SimonaSoloduha/SimonaSoloduha/blob/main/asses/Soloduha.png)
 
-About Me
+I'm Simona Soloduha beginner Python developer.
 
 Languages and Tools
 
